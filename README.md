@@ -1,4 +1,4 @@
-****Project Details-****
+**_Project Details-_**
 
 **Project Title -** Chatbot Creation
 
@@ -8,9 +8,7 @@ Develop a simple chatbot that can engage in basic conversations with users.
 
 **Description-**
 
-Create a chatbot using natural language processing (NLP) libraries like NLTK or
-
-spaCy. Train the bot on predefined responses and make it interact with users.
+Create a chatbot using natural language processing (NLP) libraries like NLTK or spaCy. Train the bot on predefined responses and make it interact with users.
 
 **Technologies-**
 
